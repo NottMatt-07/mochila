@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modo oscuro: se usa solo si el celular tiene activado el tema oscuro -->
+    <color name="azul_claro">#1E2A4D</color>
+    <color name="azul_texto">#8EA8FF</color>
+    <color name="ambar_claro">#3A2E17</color>
+    <color name="rojo">#FF8A5B</color>
+    <color name="tinta">#E8ECF5</color>
+    <color name="fondo">#10141D</color>
+    <color name="superficie">#1A202C</color>
+    <color name="gris">#A2AABB</color>
+    <color name="gris_claro">#262D3B</color>
+    <color name="borde">#2E3646</color>
+    <color name="barra_estado">#10141D</color>
+</resources>

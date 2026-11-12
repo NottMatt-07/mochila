@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accion_editar_materia"
+        android:title="Editar materia" />
+    <item
+        android:id="@+id/accion_eliminar_materia"
+        android:title="Eliminar materia" />
+</menu>

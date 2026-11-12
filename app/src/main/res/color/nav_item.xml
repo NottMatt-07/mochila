@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Color de los íconos y textos de la barra de navegación: azul el elegido, gris el resto -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/azul_texto" android:state_checked="true" />
+    <item android:color="@color/gris" />
+</selector>

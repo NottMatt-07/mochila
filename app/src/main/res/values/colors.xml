@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Identidad visual de Mochila (modo claro). El modo oscuro está en values-night. -->
+    <color name="azul">#2F5BEA</color>
+    <color name="azul_oscuro">#1F3FA8</color>
+    <color name="azul_claro">#EAF0FF</color>
+    <color name="azul_texto">#2F5BEA</color>
+    <color name="ambar">#F5A623</color>
+    <color name="ambar_claro">#FFF4E0</color>
+    <color name="rojo">#D9480F</color>
+    <color name="tinta">#1B2333</color>
+    <color name="fondo">#F7F8FC</color>
+    <color name="superficie">#FFFFFF</color>
+    <color name="gris">#5B6478</color>
+    <color name="gris_claro">#EEF1F7</color>
+    <color name="borde">#E3E7F0</color>
+    <color name="barra_estado">#1F3FA8</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="texto_sobre_azul">#EEF2FF</color>
+</resources>

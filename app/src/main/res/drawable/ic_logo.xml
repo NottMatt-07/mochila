@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo de Mochila: una mochila azul con un tilde en el bolsillo -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Manija -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M46,28 V22 A14,14 0 0,1 74,22 V28"
+        android:strokeWidth="7"
+        android:strokeColor="#1F3FA8"
+        android:strokeLineCap="round" />
+
+    <!-- Cuerpo -->
+    <path
+        android:fillColor="#2F5BEA"
+        android:pathData="M46,28 H74 A24,24 0 0,1 98,52 V84 A24,24 0 0,1 74,108 H46 A24,24 0 0,1 22,84 V52 A24,24 0 0,1 46,28 Z" />
+
+    <!-- Tapa -->
+    <path
+        android:fillColor="#1F3FA8"
+        android:pathData="M22,52 A24,24 0 0,1 46,28 H74 A24,24 0 0,1 98,52 V58 H22 Z" />
+
+    <!-- Bolsillo -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M46,68 H74 A10,10 0 0,1 84,78 V88 A10,10 0 0,1 74,98 H46 A10,10 0 0,1 36,88 V78 A10,10 0 0,1 46,68 Z" />
+
+    <!-- Tilde -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M48,83 L55,90 L69,76"
+        android:strokeWidth="5"
+        android:strokeColor="#1B2333"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
